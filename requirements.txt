@@ -1,0 +1,9 @@
+argparse
+flask==2.1.0
+torch
+opencv-python
+wheel
+Werkzeug==2.3.7
+ultralytics
+matplotlib==3.4.3
+jinja2

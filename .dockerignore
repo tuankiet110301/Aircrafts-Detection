@@ -1,0 +1,13 @@
+*.pyc
+__pycache__
+*.pyo
+*.pyd
+.Python
+env
+venv
+ENV
+instance
+.pytest_cache
+.cache
+.coverage
+.tox
